@@ -21,9 +21,8 @@ function About(){
                    </Reveal>
                    <Reveal>
                        <p className={styles.aboutText}>
-                           I currently work for Google on Google Photos. I also toss in my ¢2
-                           with the design systems teams from time to time (once an artist,
-                           always an artist, amirite?).
+                           I am currently working on low level system coding with golang,cpp and rust
+                           and probably will build some beautiful project soon.
                        </p>
                    </Reveal>
                    <Reveal>
